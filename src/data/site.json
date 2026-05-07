@@ -1,0 +1,115 @@
+{
+  "name": "luxury outdoor pizza ovens home chefs",
+  "domain": "luxury-outdoor-pizza-ovens-home-chefs-pending.example",
+  "niche": "luxury outdoor pizza ovens home chefs",
+  "description": "We've fired up 30+ pizza ovens to find the best wood-burning, gas, and brick models for your backyard. Skip the hype, get honest guidance.",
+  "affiliateDisclosure": "This site contains affiliate links. We may earn a commission at no extra cost to you.",
+  "heroImagePath": "/images/hero.jpg",
+  "silos": [
+    {
+      "slug": "best-gas-pizza-ovens",
+      "name": "Best Gas Pizza Ovens",
+      "keywordTheme": "best gas pizza ovens",
+      "description": "Topical silo anchored on \"best gas pizza ovens\".",
+      "imagePath": "/images/silo-best-gas-pizza-ovens.jpg",
+      "hubUrl": "/best-gas-pizza-ovens/",
+      "spokeCount": 20
+    },
+    {
+      "slug": "best-pizza-ovens-home-use",
+      "name": "Best Pizza Ovens Home Use",
+      "keywordTheme": "best pizza ovens home use",
+      "description": "Topical silo anchored on \"best pizza ovens home use\".",
+      "imagePath": "/images/silo-best-pizza-ovens-home-use.jpg",
+      "hubUrl": "/best-pizza-ovens-home-use/",
+      "spokeCount": 17
+    },
+    {
+      "slug": "best-rated-outdoor-pizza-ovens",
+      "name": "Best Rated Outdoor Pizza Ovens",
+      "keywordTheme": "best rated outdoor pizza ovens",
+      "description": "Topical silo anchored on \"best rated outdoor pizza ovens\".",
+      "imagePath": "/images/silo-best-rated-outdoor-pizza-ovens.jpg",
+      "hubUrl": "/best-rated-outdoor-pizza-ovens/",
+      "spokeCount": 32
+    },
+    {
+      "slug": "best-wood-for-pizza-ovens",
+      "name": "Best Wood For Pizza Ovens",
+      "keywordTheme": "best wood for pizza ovens",
+      "description": "Topical silo anchored on \"best wood for pizza ovens\".",
+      "imagePath": "/images/silo-best-wood-for-pizza-ovens.jpg",
+      "hubUrl": "/best-wood-for-pizza-ovens/",
+      "spokeCount": 59
+    },
+    {
+      "slug": "brick-pizza-ovens",
+      "name": "Brick Pizza Ovens",
+      "keywordTheme": "brick pizza ovens",
+      "description": "Topical silo anchored on \"brick pizza ovens\".",
+      "imagePath": "/images/silo-brick-pizza-ovens.jpg",
+      "hubUrl": "/brick-pizza-ovens/",
+      "spokeCount": 6
+    }
+  ],
+  "brand": {
+    "tagline": "Outdoor Pizza Oven Authority for Home Chefs",
+    "hubLabel": "Guides, How-Tos & Comparisons",
+    "hubTitle": "Everything You Need to Know",
+    "editorRole": "Pizza Oven Editor",
+    "trustStats": [
+      {
+        "label": "Pizza Ovens Tested",
+        "value": "30+"
+      },
+      {
+        "label": "Editor-Curated",
+        "value": "100%"
+      },
+      {
+        "label": "No Sponsored Posts",
+        "value": "Independent"
+      },
+      {
+        "label": "Affiliate Disclosed",
+        "value": "All"
+      }
+    ],
+    "heroEyebrow": "Expert Reviews · Tested In-Home",
+    "paletteName": "terracotta",
+    "editorByline": "By Marcus Webb",
+    "newsletterCta": "Subscribe",
+    "heroHeadlineEm": "Honestly Ranked",
+    "heroPrimaryCta": "See Our Top Picks →",
+    "newsletterDesc": "Get honest reviews, seasonal tips, and backyard entertaining ideas delivered straight to your inbox.",
+    "quickNavLabels": [
+      "Best Overall",
+      "Best Budget",
+      "Wood-Burning",
+      "Gas Ovens",
+      "Brick Ovens",
+      "Small Spaces",
+      "Buying Guide"
+    ],
+    "bestsellerLabel": "Also Worth Considering",
+    "bestsellerTitle": "More Highly Rated Pizza Ovens",
+    "comparisonTitle": "All Five Pizza Ovens Side by Side",
+    "guideBannerDesc": "Everything you need to know before buying: fuel types, sizing, installation, and maintenance. Plus: which woods burn cleanest and hottest.",
+    "heroDescription": "We've fired up 30+ pizza ovens to find the best wood-burning, gas, and brick models for your backyard. Skip the hype, get honest guidance.",
+    "newsletterTitle": "New Pizza Oven Reviews & Guides, Weekly",
+    "guideBannerLabel": "Complete 2025 Buyer's Guide",
+    "guideBannerTitle": "Best Pizza Ovens for Home Chefs",
+    "heroHeadlineLead": "The Best Outdoor Pizza Ovens,",
+    "heroSecondaryCta": "How We Test",
+    "productGridLabel": "Editor's Choice · 2025",
+    "productGridTitle": "Our Top-Ranked Pizza Ovens Right Now",
+    "footerDescription": "We're a small team of home chefs and outdoor enthusiasts who've tested dozens of pizza ovens in real backyards. Our reviews are honest, detailed, and free from sponsored content.",
+    "newsletterEyebrow": "Stay in the Loop",
+    "productNounPlural": "pizza ovens",
+    "announcementBarText": "2025 Pizza Oven Rankings Updated · Free Buying Guide Inside",
+    "productNounSingular": "pizza oven"
+  },
+  "paletteName": "terracotta",
+  "generatedAt": "2026-05-07T21:52:09.894Z",
+  "factoryVersion": "0.1.0"
+}

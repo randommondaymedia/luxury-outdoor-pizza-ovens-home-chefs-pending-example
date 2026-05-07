@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://luxury-outdoor-pizza-ovens-home-chefs-pending.example/sitemap.xml
